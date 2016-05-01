@@ -1,0 +1,78 @@
+
+*{
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #353129;
+}
+body{
+	//background-image: url(bckgrd.png);
+	background-color: #D4D0D4;
+}
+
+p{
+	text-indent: 20px;
+}
+
+.top-header{
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	width: 60%;
+	background-color: #fff;
+	padding:10px 0px 10px;
+}
+
+.body-main{
+	//height: 800px;
+	width: 45%;
+	margin-top: 2px;
+	margin-right:20%;
+	background-color:white;
+	float:right;
+}
+
+#citation{
+	padding-left: 20px;
+	text-indent: -20px;
+}
+
+#caption{
+	text-align: center;
+	font-size: 10pt;
+	font-style: italic;
+}
+
+#left-nav-box{
+	height: 100%;
+	float: left;
+	width: 14.8%;
+	margin-left: 20%;
+	background-color: rgb(255,255,255);
+	text-align: center;
+}
+
+.TEXT{
+	font-size: 14px;
+	padding: 20px;
+}
+
+.nav-lnk{
+	height:50px;
+	padding-top:25px;
+	border-top: 1px dotted black;
+	border-bottom: 1px dotted black;
+}
+.nav-lnk:hover{
+	background-color: C1CE96;
+}
+
+a{
+	color: rgb(255,133,163);
+}
+
+a:hover{
+	color: rgb(178,58,87);
+}
+
+a:visited{
+	color: rgb(178,58,67);
+}
